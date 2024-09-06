@@ -1,4 +1,4 @@
-import Ship from "./ship";
+import Ship from "../modules/ship";
 
 describe("Ship features", () => {
   let submarine;
